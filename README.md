@@ -1,2 +1,2 @@
-# House-Prices-Prediction
-House Prices Prediction
+# House-prices
+Advanced Regression Techniques
